@@ -1,0 +1,18 @@
+{
+    "editor.mouseWheelZoom": true,
+    "workbench.iconTheme": "vscode-icons",
+    "tabnine.experimentalAutoImports": true,
+    "terminal.integrated.copyOnSelection": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "C_Cpp.errorSquiggles": "Enabled",
+    "[sql]": {
+    
+    },
+    "code-runner.runInTerminal": true,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace, 'fira'",
+    "window.menuBarVisibility": "compact",
+    "workbench.colorTheme": "Atom One Dark",
+    "mssql.enableQueryHistoryCapture": true,
+    "editor.accessibilitySupport": "off"
+}
